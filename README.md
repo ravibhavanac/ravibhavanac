@@ -13,6 +13,15 @@
 * Passionate about solving real-world problems through technology.
 * Long-term goal: Create cybersecurity solutions that are accessible, scalable, and impactful.
 
+
+## Highlights
+
+* Presented an AI/STEM project to the Prime Minister of India during Pariksha Pe Charcha.
+* INSPIRE MANAK Award recipient.
+* National-level participant in the National Children's Science Congress (NCSC).
+* Silver Medalist in the World Robot Olympiad (WRO).
+* Cybersecurity builder focused on practical, user-centered security solutions.
+
 ---
 
 ## Current Focus
@@ -105,6 +114,11 @@ Learning, building, and iterating toward a future where cybersecurity is proacti
 ## Contribution Snake
 
 ![Snake Animation](https://raw.githubusercontent.com/IQcdlggcWO/IQcdlggcWO/output/github-contribution-grid-snake.svg)
+
+## Vision
+
+Technology has the potential to make security, knowledge, and opportunity accessible to everyone. My goal is to contribute to that future through cybersecurity, software engineering, and innovative digital solutions that solve meaningful real-world problems.
+
 
 <!--
 **ravibhavanac/ravibhavanac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
