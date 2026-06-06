@@ -93,9 +93,9 @@ Cybersecurity • Python • Networking • Threat Intelligence • Digital Fore
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IQcdlggcWO\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravibhavanac&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IQcdlggcWO\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhavanac&layout=compact)
 
 ---
 
@@ -113,7 +113,7 @@ Learning, building, and iterating toward a future where cybersecurity is proacti
 
 ## Contribution Snake
 
-![Snake Animation](https://raw.githubusercontent.com/IQcdlggcWO/IQcdlggcWO/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/ravibhavanac/ravibhavanac/output/github-contribution-grid-snake.svg)
 
 ## Vision
 
